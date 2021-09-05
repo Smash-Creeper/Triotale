@@ -67,6 +67,7 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"381cb286-d1a5-45ab-88c6-6eff64ebd91e","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Large",
     "path": "folders/Sprites/Gamepad/PS4/Large.yy",

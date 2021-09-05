@@ -1,0 +1,2 @@
+if sprite_exists(sprite_index) {draw_self();}
+draw_sprite_ext(spr_block_breaking,floor((((curdurability/durability)-1)*-100)/10),x,y,(sprite_get_width(sprite_index)*image_xscale)/16,(sprite_get_height(sprite_index)*image_yscale)/16,image_angle,image_blend,image_alpha);

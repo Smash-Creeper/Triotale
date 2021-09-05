@@ -94,6 +94,7 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"8eef6230-0ed4-471e-811f-09cd252fc170","tags":[],"resourceType":"GMImageLayer",},
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"35ef9814-33a2-42aa-97c6-3d6f541f2d39","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Tubbo",
     "path": "folders/Sprites/Battle Sprites/Tubbo.yy",

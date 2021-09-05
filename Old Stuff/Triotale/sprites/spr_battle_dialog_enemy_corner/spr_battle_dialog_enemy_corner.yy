@@ -67,6 +67,7 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6c1b7b99-ff7d-4982-80ec-3d7bc970adc4","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Dialog Enemy",
     "path": "folders/Sprites/Battle/Dialog Enemy.yy",

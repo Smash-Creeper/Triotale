@@ -91,6 +91,7 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"aa822863-c1c6-4a9e-873b-9c14e5e70399","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Tommy",
     "path": "folders/Sprites/Battle Sprites/Tommy.yy",

@@ -67,6 +67,7 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ca959534-c9bf-4f2f-9e6a-8c5b3d38acca","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Everyone",
     "path": "folders/Sprites/Battle Sprites/Everyone.yy",

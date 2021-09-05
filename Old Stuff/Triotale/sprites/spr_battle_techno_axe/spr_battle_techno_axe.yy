@@ -71,6 +71,7 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3f99a50b-a3e4-4329-8922-33a73b932fa2","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "Attack Assets",
     "path": "folders/Sprites/Battle Sprites/Techno/Attack Assets.yy",
