@@ -579,9 +579,9 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"room_init","path":"rooms/room_init/room_init.yy",},},
+    {"roomId":{"name":"room_simple_battle","path":"rooms/room_simple_battle/room_simple_battle.yy",},},
     {"roomId":{"name":"room_area_1","path":"rooms/room_area_1/room_area_1.yy",},},
     {"roomId":{"name":"room_area_0","path":"rooms/room_area_0/room_area_0.yy",},},
-    {"roomId":{"name":"room_simple_battle","path":"rooms/room_simple_battle/room_simple_battle.yy",},},
     {"roomId":{"name":"room_renderer","path":"rooms/room_renderer/room_renderer.yy",},},
     {"roomId":{"name":"room_gb","path":"rooms/room_gb/room_gb.yy",},},
     {"roomId":{"name":"room_logo","path":"rooms/room_logo/room_logo.yy",},},
