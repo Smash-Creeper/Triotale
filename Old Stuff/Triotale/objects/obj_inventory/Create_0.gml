@@ -1,0 +1,22 @@
+if instance_number(obj_inventory)> 1 {instance_destroy();}
+hold_id= -1;
+hold_size= 1;
+inv_surface= -1;
+cur= global.inv_cur;
+depth= -2147483648;
+global.xp= 5;
+global.xpmax= 10;
+global.lv= 1;
+global.hp= 20;
+global.def= 10;
+global.name= "PLAYER";
+subimg0= 0;
+subimg1= 0;
+curi0= 0;
+curi1= 0;
+curi2= 0;
+_x= -100;
+_y= -100;
+x_= -100;
+y_= -100;
+//DEF AND HP LIMIT = 20 PLEASE!!!!!
